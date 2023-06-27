@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>凌风哎</title>
+  
+  <subtitle>泰裤辣</subtitle>
+  <link href="https://lingfengai2.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://lingfengai2.github.io/"/>
+  <updated>2023-06-26T14:01:25.121Z</updated>
+  <id>https://lingfengai2.github.io/</id>
+  
+  <author>
+    <name>lingfengai</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nbum（牛逼的工具箱）</title>
+    <link href="https://lingfengai2.github.io/2023/06/26/nbum%EF%BC%88%E7%89%9B%E9%80%BC%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1%EF%BC%89/"/>
+    <id>https://lingfengai2.github.io/2023/06/26/nbum%EF%BC%88%E7%89%9B%E9%80%BC%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1%EF%BC%89/</id>
+    <published>2023-06-26T13:46:48.000Z</published>
+    <updated>2023-06-26T14:01:25.121Z</updated>
+    
+    <content type="html"><![CDATA[<p>#功能介绍</p>        <h2 id="已实现的功能"   >          <a href="#已实现的功能" class="heading-link"><i class="fas fa-link"></i></a><a href="#已实现的功能" class="headerlink" title="已实现的功能"></a>已实现的功能</h2>      <ul><li><input checked="" disabled="" type="checkbox"> 安卓工具箱（Termux专用）  <ul><li><input checked="" disabled="" type="checkbox"> 一键美化 <span class="exturl"><a class="exturl__link"   href="https://github.com/remo7777/T-Header"  title="T-Header">原项目地址</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></li></ul></li><li><input checked="" disabled="" type="checkbox"> QQ机器人（Yunzai-Bot）  <ul><li><input checked="" disabled="" type="checkbox"> 一键部署  </li><li><input checked="" disabled="" type="checkbox"> 一键启动  </li><li><input checked="" disabled="" type="checkbox"> 一键修复版本过低</li></ul></li><li><input checked="" disabled="" type="checkbox"> 刷只因工具（作用几乎为零）  <ul><li><input checked="" disabled="" type="checkbox"> ADB安装与使用  </li><li><input checked="" disabled="" type="checkbox"> OZIP转ZIP <span class="exturl"><a class="exturl__link"   href="https://github.com/liyw0205/oziptozip"  title="oziptozip">原项目地址</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span><br><em>没错就这么点功能</em></li></ul></li></ul>        <h3 id="预想实现的内容"   >          <a href="#预想实现的内容" class="heading-link"><i class="fas fa-link"></i></a><a href="#预想实现的内容" class="headerlink" title="预想实现的内容"></a>预想实现的内容</h3>      <ul><li><input disabled="" type="checkbox"> Yunzai-Bot插件一键安装和卸载  </li><li><input disabled="" type="checkbox"> 为MT终端安装Proot容器</li></ul><hr>        <h2 id="安装教程"   >          <a href="#安装教程" class="heading-link"><i class="fas fa-link"></i></a><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2>      <p><em>推荐使用一键安装脚本</em></p><ol><li>执行一键安装脚本  <figure class="highlight plaintext"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">bash &lt;(curl -L gitee.com/lingfengai/nbum/raw/master/install.sh)</span><br></pre></td></tr></table></div></figure></li><li>回车确认安装依赖<br><img src="/jpg/Screenshot_20230610_211359.jpg" alt="安装">  </li><li>回车确认克隆本仓库<br><img src="/jpg/Screenshot_20230610_211607.jpg" alt="克隆"></li></ol><hr>        <h2 id="使用说明"   >          <a href="#使用说明" class="heading-link"><i class="fas fa-link"></i></a><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2>      <p><del>如果你不是傻bi的话应该不用教</del>（bushi）<br>通过键盘或Termux下发导航栏的<code>↑↓</code>来选择一个选项<br>通过键盘或Termux下发导航栏的<code>←→</code>来选择“yes”或“no”<br>选择一个选项后回车确认<br>选择“no”后回车退出  </p><hr>        <h2 id="贡献者-x2F-作者"   >          <a href="#贡献者-x2F-作者" class="heading-link"><i class="fas fa-link"></i></a><a href="#贡献者-x2F-作者" class="headerlink" title="贡献者&#x2F;作者"></a>贡献者&#x2F;作者</h2>      <div class="table-container"><table><thead><tr><th align="center">名称</th><th align="center">设备</th></tr></thead><tbody><tr><td align="center">凌风哎</td><td align="center"><span class="exturl"><a class="exturl__link"   href="https://gitee.com/lingfengai" >Gitee</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></td></tr><tr><td align="center">lingfengai</td><td align="center">终端git上传</td></tr></tbody></table></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;#功能介绍&lt;/p&gt;
+
+        &lt;h2 id=&quot;已实现的功能&quot;   &gt;
+          &lt;a href=&quot;#已实现的功能&quot; class=&quot;heading-link&quot;&gt;&lt;i class=&quot;fas fa-link&quot;&gt;&lt;/i&gt;&lt;/a&gt;&lt;a href=&quot;#已实现的功能&quot; </summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://lingfengai2.github.io/1970/01/01/hello-world/"/>
+    <id>https://lingfengai2.github.io/1970/01/01/hello-world/</id>
+    <published>1970-01-01T00:00:00.000Z</published>
+    <updated>2023-06-26T13:08:16.429Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <span class="exturl"><a class="exturl__link"   href="https://hexo.io/" >Hexo</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>! This is your very first post. Check <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/" >documentation</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> for more info. If you get any problems when using Hexo, you can find the answer in <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span> or you can ask me on <span class="exturl"><a class="exturl__link"   href="https://github.com/hexojs/hexo/issues" >GitHub</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span>.</p>        <h2 id="Quick-Start"   >          <a href="#Quick-Start" class="heading-link"><i class="fas fa-link"></i></a><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2>              <h3 id="Create-a-new-post"   >          <a href="#Create-a-new-post" class="heading-link"><i class="fas fa-link"></i></a><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/writing.html" >Writing</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Run-server"   >          <a href="#Run-server" class="heading-link"><i class="fas fa-link"></i></a><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/server.html" >Server</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Generate-static-files"   >          <a href="#Generate-static-files" class="heading-link"><i class="fas fa-link"></i></a><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/generating.html" >Generating</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>        <h3 id="Deploy-to-remote-sites"   >          <a href="#Deploy-to-remote-sites" class="heading-link"><i class="fas fa-link"></i></a><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3>      <figure class="highlight bash"><div class="table-container"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></div></figure><p>More info: <span class="exturl"><a class="exturl__link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment</a><span class="exturl__icon"><i class="fas fa-external-link-alt"></i></span></span></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;span class=&quot;exturl&quot;&gt;&lt;a class=&quot;exturl__link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;/a&gt;&lt;span class=&quot;exturl__icon&quot;&gt;&lt;i class=&quot;fas fa-ex</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
