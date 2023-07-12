@@ -6,7 +6,7 @@
   <link href="https://lingfengai2.github.io/atom.xml" rel="self"/>
   
   <link href="https://lingfengai2.github.io/"/>
-  <updated>2023-06-29T09:12:43.491Z</updated>
+  <updated>2023-07-12T08:32:39.141Z</updated>
   <id>https://lingfengai2.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>nbum更新日志</title>
+    <link href="https://lingfengai2.github.io/2023/07/12/nbumchange/"/>
+    <id>https://lingfengai2.github.io/2023/07/12/nbumchange/</id>
+    <published>2023-07-12T08:31:48.000Z</published>
+    <updated>2023-07-12T08:32:39.141Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>版本 </p><ul><li>正式开始编写图形化菜单</li><li>newbing完成主菜单的自适应屏幕的方法</li><li>脚本改名为牛逼的工具箱图形版（nb-menu）</li><li>完善初始功能<br>  -日历<br>  -天气</li></ul><p>版本 </p><ul><li>加入计算器<ul><li>加法运算</li><li>减法运算</li><li>乘法运算</li><li>除法运算</li></ul></li><li>进一步完善功能</li><li>加入退出确认菜单</li></ul><p>版本 </p><ul><li>修复天气无法正常输出的问题</li><li>现在会检查是否安装了依赖并让用户选择安装方式</li><li>chatgpt完成新的主菜单适应屏幕方式<ul><li>不再像newbing直接把菜单拉满屏幕</li></ul></li></ul><p>版本 </p><ul><li>新增脚本信息以及更新日志（你现在看的）</li><li>新增自动检查脚本更新并自动更新的功能（亿点bug）</li><li>优化了代码，以提高效率</li></ul><p>版本 </p><ul><li>添加安卓工具箱</li><li>修复bug</li></ul><p>版本 Alphe gitee cs (2023&#x2F;6&#x2F;6)</p><ul><li>去除自动更新</li><li>更改脚本名为：nbum</li><li>上传 Gitee</li></ul><p>版本 1.0.0 (2023&#x2F;6&#x2F;8)</p><ul><li>制作 Tmoe 得到的依赖安装提示<ul><li>首次支持 ArchLinux 安装依赖</li><li>通过检查软件包来安装依赖</li></ul></li></ul><p>版本 1.01 (2023&#x2F;6&#x2F;9)</p><ul><li>开启脚本自动拉取脚本</li></ul><p>版本 1.02 - 1.05 (2023&#x2F;6&#x2F;9)</p><ul><li>修复bug</li></ul><p>版本 1.06 - 1.10 (2023&#x2F;6&#x2F;10)</p><ul><li>修复bug</li></ul><p>版本 1.11 (2023&#x2F;6&#x2F;10)</p><ul><li>独立安装依赖功能为 install.sh 一键安装脚本<ul><li>允许通过 curl 远程下载该安装脚本</li><li>包含一键拉取 Gitee 脚本</li></ul></li></ul><p>版本 1.12 - 1.13 (2023&#x2F;6&#x2F;19)</p><ul><li>修复自动更新的bug</li></ul><p>版本 1.14 (2023&#x2F;6&#x2F;15)</p><ul><li>新增刷只因工具<ul><li>ADB工具安装与使用</li></ul></li></ul><p>版本 1.15 (2023&#x2F;6&#x2F;16)</p><ul><li>去除自动更新</li><li>主菜单添加一键更新</li><li>刷只因工具新增OZIP转ZIP</li></ul><p>版本 1.16 - 1.18 (2023&#x2F;6&#x2F;16)</p><ul><li>修复bug</li></ul><p>版本 1.19 (2023&#x2F;6&#x2F;21)</p><ul><li>优化一键安装代码</li><li>新增一键安装云崽</li></ul><p>版本 1.20 (2023&#x2F;6&#x2F;22)</p><ul><li>上传到 Github</li><li>优化一键安装<ul><li>允许从 Github 拉取脚本</li></ul></li><li>优化刷只因工具</li></ul><p>版本 1.21 (2023&#x2F;7&#x2F;11)</p><ul><li>去除查看天气功能</li><li>优化更新日志</li></ul><p>版本 1.22 (2023&#x2F;7&#x2F;12)</p><ul><li>优化主菜单选项</li><li>独立更新日志</li><li>去除好像没用的退出确认</li></ul><p>版本 1.23 (2023&#x2F;7&#x2F;12)</p><ul><li>优化主菜单选项</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="nbum" scheme="https://lingfengai2.github.io/tags/nbum/"/>
+    
+  </entry>
   
   <entry>
     <title>「置顶」欢迎来到我的博客</title>
