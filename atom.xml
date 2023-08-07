@@ -6,7 +6,7 @@
   <link href="https://lingfengai2.github.io/atom.xml" rel="self"/>
   
   <link href="https://lingfengai2.github.io/"/>
-  <updated>2023-07-12T08:32:39.141Z</updated>
+  <updated>2023-08-07T07:09:17.506Z</updated>
   <id>https://lingfengai2.github.io/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>nbum更新日志</title>
-    <link href="https://lingfengai2.github.io/2023/07/12/nbumchange/"/>
-    <id>https://lingfengai2.github.io/2023/07/12/nbumchange/</id>
-    <published>2023-07-12T08:31:48.000Z</published>
-    <updated>2023-07-12T08:32:39.141Z</updated>
+    <title>NBUM介绍</title>
+    <link href="https://lingfengai2.github.io/2023/08/07/nbum/"/>
+    <id>https://lingfengai2.github.io/2023/08/07/nbum/</id>
+    <published>2023-08-07T06:32:03.000Z</published>
+    <updated>2023-08-07T07:09:17.506Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>版本 </p><ul><li>正式开始编写图形化菜单</li><li>newbing完成主菜单的自适应屏幕的方法</li><li>脚本改名为牛逼的工具箱图形版（nb-menu）</li><li>完善初始功能<br>  -日历<br>  -天气</li></ul><p>版本 </p><ul><li>加入计算器<ul><li>加法运算</li><li>减法运算</li><li>乘法运算</li><li>除法运算</li></ul></li><li>进一步完善功能</li><li>加入退出确认菜单</li></ul><p>版本 </p><ul><li>修复天气无法正常输出的问题</li><li>现在会检查是否安装了依赖并让用户选择安装方式</li><li>chatgpt完成新的主菜单适应屏幕方式<ul><li>不再像newbing直接把菜单拉满屏幕</li></ul></li></ul><p>版本 </p><ul><li>新增脚本信息以及更新日志（你现在看的）</li><li>新增自动检查脚本更新并自动更新的功能（亿点bug）</li><li>优化了代码，以提高效率</li></ul><p>版本 </p><ul><li>添加安卓工具箱</li><li>修复bug</li></ul><p>版本 Alphe gitee cs (2023&#x2F;6&#x2F;6)</p><ul><li>去除自动更新</li><li>更改脚本名为：nbum</li><li>上传 Gitee</li></ul><p>版本 1.0.0 (2023&#x2F;6&#x2F;8)</p><ul><li>制作 Tmoe 得到的依赖安装提示<ul><li>首次支持 ArchLinux 安装依赖</li><li>通过检查软件包来安装依赖</li></ul></li></ul><p>版本 1.01 (2023&#x2F;6&#x2F;9)</p><ul><li>开启脚本自动拉取脚本</li></ul><p>版本 1.02 - 1.05 (2023&#x2F;6&#x2F;9)</p><ul><li>修复bug</li></ul><p>版本 1.06 - 1.10 (2023&#x2F;6&#x2F;10)</p><ul><li>修复bug</li></ul><p>版本 1.11 (2023&#x2F;6&#x2F;10)</p><ul><li>独立安装依赖功能为 install.sh 一键安装脚本<ul><li>允许通过 curl 远程下载该安装脚本</li><li>包含一键拉取 Gitee 脚本</li></ul></li></ul><p>版本 1.12 - 1.13 (2023&#x2F;6&#x2F;19)</p><ul><li>修复自动更新的bug</li></ul><p>版本 1.14 (2023&#x2F;6&#x2F;15)</p><ul><li>新增刷只因工具<ul><li>ADB工具安装与使用</li></ul></li></ul><p>版本 1.15 (2023&#x2F;6&#x2F;16)</p><ul><li>去除自动更新</li><li>主菜单添加一键更新</li><li>刷只因工具新增OZIP转ZIP</li></ul><p>版本 1.16 - 1.18 (2023&#x2F;6&#x2F;16)</p><ul><li>修复bug</li></ul><p>版本 1.19 (2023&#x2F;6&#x2F;21)</p><ul><li>优化一键安装代码</li><li>新增一键安装云崽</li></ul><p>版本 1.20 (2023&#x2F;6&#x2F;22)</p><ul><li>上传到 Github</li><li>优化一键安装<ul><li>允许从 Github 拉取脚本</li></ul></li><li>优化刷只因工具</li></ul><p>版本 1.21 (2023&#x2F;7&#x2F;11)</p><ul><li>去除查看天气功能</li><li>优化更新日志</li></ul><p>版本 1.22 (2023&#x2F;7&#x2F;12)</p><ul><li>优化主菜单选项</li><li>独立更新日志</li><li>去除好像没用的退出确认</li></ul><p>版本 1.23 (2023&#x2F;7&#x2F;12)</p><ul><li>优化主菜单选项</li></ul>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><div align="center">  <h1>NBUM</h1></div><div align="center">  <img src="/img/logo.png" alt="logo"></div><center>  <a class="btn" href="https://gitee.com/lingfengai/nbum">Gitee</a> <a class="btn" href="https://github.com/lingfengai2/nbum">Github</a></center><hr><h1 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h1><h2 id="现已测试且支持的系统-x2F-终端↓"><a href="#现已测试且支持的系统-x2F-终端↓" class="headerlink" title="现已测试且支持的系统&#x2F;终端↓"></a>现已测试且支持的系统&#x2F;终端↓</h2><div class="note note-success">            <p>Ubuntu Linux<br>Arch Linux<br>Android Termux&#x2F;ZeroTermux</p>          </div><blockquote><p>注：没有不代表不能用，但是一键安装和主脚本中安装依赖的功能无法使用</p></blockquote><h2 id="目前功能"><a href="#目前功能" class="headerlink" title="目前功能"></a>目前功能</h2><ul><li>QQ机器人（<a href="https://gitee.com/Le-niao/Yunzai-Bot">Yunzai-Bot</a>）</li><li>刷只因工具<ul><li>ADB</li><li><a href="https://github.com/liyw0205/oziptozip">ozip转zip</a></li></ul></li><li>安卓工具<ul><li><a href="https://github.com/remo7777/T-Header">一键美化</a></li><li>切换源（清华源）</li></ul></li></ul><h2 id="更新日志"><a href="#更新日志" class="headerlink" title="更新日志"></a>更新日志</h2><center>  <a class="btn" href="https://lingfengai2.github.io/2023/07/12/nbumchange/">点我</a></center><h2 id="所需软件包"><a href="#所需软件包" class="headerlink" title="所需软件包"></a>所需软件包</h2><ol><li>dialog(主要)</li><li>which(主要)</li><li>git(主要)</li><li>npm&#x2F;pnpm,nodejs(QQ机器人-需要)</li><li>adb(刷只因工具&#x2F;adb工具-需要)</li><li>python&#x2F;python-pip(刷只因工具&#x2F;oziptozip-需要)</li></ol><h2 id="部分截图"><a href="#部分截图" class="headerlink" title="部分截图"></a>部分截图</h2><p><img src="/img/1.png" alt="图片1"> <img src="/img/2.png" alt="图片2"> <img src="/img/3.png" alt="图片3"> <img src="/img/4.png" alt="图片4"> <img src="/img/5.png" alt="图片5"> <img src="/img/6.png" alt="图片6"> <img src="/img/7.png" alt="图片7"> <img src="/img/8.png" alt="图片8"></p><h1 id="食用方法"><a href="#食用方法" class="headerlink" title="食用方法"></a>食用方法</h1><h2 id="文字教程"><a href="#文字教程" class="headerlink" title="文字教程"></a>文字教程</h2><blockquote><p>如果您首次使用Termux，请先换源或执行</p><p> <code>pkg update</code></p></blockquote><p>从1.20版本已经完成了一键安装脚本，你可以使用以下代码进行一键安装</p><figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">bash &lt;(curl -L gitee.com<span class="hljs-regexp">/lingfengai/</span>nbum<span class="hljs-regexp">/raw/m</span>aster/<span class="hljs-number">2</span>.sh)<br></code></pre></td></tr></table></figure><p>脚本提供了两种仓库源<br>回车或输入<code>y</code>使用Gitee源<br>输入<code>n</code>使用Github源  </p><blockquote><p>注：如果你想要自定义安装，请克隆整个仓库并确保您的系统已经安装上述主要软件包</p></blockquote><h2 id="视频教程"><a href="#视频教程" class="headerlink" title="视频教程"></a>视频教程</h2><div style="width: 500px;">  <video controls width="100%">    <source src="/img/6.mp4" type="video/mp4">    你的浏览器不支持视频标签。  </video></div><h1 id="贡献值-x2F-作者"><a href="#贡献值-x2F-作者" class="headerlink" title="贡献值&#x2F;作者"></a>贡献值&#x2F;作者</h1><table><thead><tr><th align="center">名称</th><th align="center">设备</th></tr></thead><tbody><tr><td align="center">凌风哎</td><td align="center"><a href="https://gitee.com/lingfengai">Gitee</a></td></tr><tr><td align="center">lingfengai</td><td align="center"><a href="https://github.com/lingfengai2">Github</a></td></tr></tbody></table>]]></content>
     
     
       
@@ -39,13 +39,35 @@
   </entry>
   
   <entry>
-    <title>「置顶」欢迎来到我的博客</title>
+    <title>nbum更新日志</title>
+    <link href="https://lingfengai2.github.io/2023/07/12/nbumchange/"/>
+    <id>https://lingfengai2.github.io/2023/07/12/nbumchange/</id>
+    <published>2023-07-12T08:31:48.000Z</published>
+    <updated>2023-08-07T07:00:18.446Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>version&#x3D;”1.54”</p><p>版本 </p><ul><li>正式开始编写图形化菜单</li><li>newbing完成主菜单的自适应屏幕的方法</li><li>脚本改名为牛逼的工具箱图形版（nb-menu）</li><li>完善初始功能<br>  -日历<br>  -天气</li></ul><p>版本 </p><ul><li>加入计算器<ul><li>加法运算</li><li>减法运算</li><li>乘法运算</li><li>除法运算</li></ul></li><li>进一步完善功能</li><li>加入退出确认菜单</li></ul><p>版本 </p><ul><li>修复天气无法正常输出的问题</li><li>现在会检查是否安装了依赖并让用户选择安装方式</li><li>chatgpt完成新的主菜单适应屏幕方式<ul><li>不再像newbing直接把菜单拉满屏幕</li></ul></li></ul><p>版本 </p><ul><li>新增脚本信息以及更新日志（你现在看的）</li><li>新增自动检查脚本更新并自动更新的功能（亿点bug）</li><li>优化了代码，以提高效率</li></ul><p>版本 </p><ul><li>添加安卓工具箱</li><li>修复bug</li></ul><p>版本 Alphe gitee cs (2023&#x2F;6&#x2F;6)</p><ul><li>去除自动更新</li><li>更改脚本名为：nbum</li><li>上传 Gitee</li></ul><p>版本 1.0.0 (2023&#x2F;6&#x2F;8)</p><ul><li>制作 Tmoe 得到的依赖安装提示<ul><li>首次支持 ArchLinux 安装依赖</li><li>通过检查软件包来安装依赖</li></ul></li></ul><p>版本 1.01 (2023&#x2F;6&#x2F;9)</p><ul><li>开启脚本自动拉取脚本</li></ul><p>版本 1.02 - 1.05 (2023&#x2F;6&#x2F;9)</p><ul><li>修复bug</li></ul><p>版本 1.06 - 1.10 (2023&#x2F;6&#x2F;10)</p><ul><li>修复bug</li></ul><p>版本 1.11 (2023&#x2F;6&#x2F;10)</p><ul><li>独立安装依赖功能为 install.sh 一键安装脚本<ul><li>允许通过 curl 远程下载该安装脚本</li><li>包含一键拉取 Gitee 脚本</li></ul></li></ul><p>版本 1.12 - 1.13 (2023&#x2F;6&#x2F;19)</p><ul><li>修复自动更新的bug</li></ul><p>版本 1.14 (2023&#x2F;6&#x2F;15)</p><ul><li>新增刷只因工具<ul><li>ADB工具安装与使用</li></ul></li></ul><p>版本 1.15 (2023&#x2F;6&#x2F;16)</p><ul><li>去除自动更新</li><li>主菜单添加一键更新</li><li>刷只因工具新增OZIP转ZIP</li></ul><p>版本 1.16 - 1.18 (2023&#x2F;6&#x2F;16)</p><ul><li>修复bug</li></ul><p>版本 1.19 (2023&#x2F;6&#x2F;21)</p><ul><li>优化一键安装代码</li><li>新增一键安装云崽</li></ul><p>版本 1.20 (2023&#x2F;6&#x2F;22)</p><ul><li>上传到 Github</li><li>优化一键安装<ul><li>允许从 Github 拉取脚本</li></ul></li><li>优化刷只因工具</li></ul><p>版本 1.21 (2023&#x2F;7&#x2F;11)</p><ul><li>去除查看天气功能</li><li>优化更新日志</li></ul><p>版本 1.22 (2023&#x2F;7&#x2F;12)</p><ul><li>优化主菜单选项</li><li>独立更新日志</li><li>去除好像没用的退出确认</li></ul><p>版本 1.23 (2023&#x2F;7&#x2F;12)</p><ul><li>优化主菜单选项</li></ul><p>版本 1.24 (2023&#x2F;7&#x2F;13)</p><ul><li>重制主菜单</li></ul><p>版本 1.25 (2023&#x2F;7&#x2F;14)</p><ul><li>自动更新重磅回归</li><li>所有菜单重新制作</li><li>脚本选项新增疑难杂症</li></ul><p>版本 1.30 (2023&#x2F;7&#x2F;14)</p><ul><li>大版本更新</li><li>自动更新优化</li><li>菜单项美化</li></ul><p>版本 1.31 (2023&#x2F;7&#x2F;14)</p><ul><li>紧急修复自动更新的玄学bug</li></ul><p>版本 1.32 - 1.37 (2023&#x2F;7&#x2F;14)</p><ul><li>自动更新美化与优化</li></ul><p>版本 1.38 (2023&#x2F;7&#x2F;15)</p><ul><li>yunzai安装优化</li><li>yunzai卸载优化</li><li>ctrlc回归</li><li>自动更新优化</li><li>安卓工具箱新增换源</li></ul><p>版本 1.39 (2023&#x2F;7&#x2F;15)</p><ul><li>优化整个仓库</li><li>更新公告试运行</li></ul><p>版本 1.40 (2023&#x2F;7&#x2F;15)</p><ul><li>优化自动更新</li><li>新增gitee跳转(仅限安卓)</li><li>adb工具重做(未完善)</li><li>添加一键安装tmoe</li></ul><p>版本 1.42 (以后不会写日期了，自己去看)</p><ul><li>主菜单加入tmoe和tmoe-zsh</li><li>adb工具完善度80%</li><li>去除依赖安装的python</li><li>oziptozip重做，还没开始（滑稽）</li><li>代码总行数到达400！！！</li></ul><p>版本 1.50</p><ul><li>一键安装与nbum重制<ul><li>逻辑优化</li><li>增加数据目录</li><li>代码体积缩减（大概5kb）</li></ul></li><li>自动更新优化<br>注：前8个版本为测试，屁用没有</li></ul><p>版本 1.51 - 1.52</p><ul><li>修复bug</li></ul><p>版本 1.53</p><ul><li>优化一键安装和nbum</li></ul><p>版本 1.54</p><ul><li>细节优化</li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    
+    <category term="nbum" scheme="https://lingfengai2.github.io/tags/nbum/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>欢迎来到我的博客</title>
     <link href="https://lingfengai2.github.io/2023/06/27/%E3%80%8C%E7%BD%AE%E9%A1%B6%E3%80%8D%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/"/>
     <id>https://lingfengai2.github.io/2023/06/27/%E3%80%8C%E7%BD%AE%E9%A1%B6%E3%80%8D%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/</id>
     <published>2023-06-27T09:44:00.000Z</published>
-    <updated>2023-06-29T09:12:43.491Z</updated>
+    <updated>2023-08-07T06:59:42.598Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="欢迎"><a href="#欢迎" class="headerlink" title="欢迎"></a>欢迎</h1><ol><li>这个网站不欢迎以下这几类人<blockquote><p>死人</p><p>没有脑子的人</p><p>只会口嗨的人</p></blockquote></li><li>这个网站是由Hexo自动搭建的，<br>由Filud主题基于框架</li></ol><h1 id="这个网站是干什么的"><a href="#这个网站是干什么的" class="headerlink" title="这个网站是干什么的"></a>这个网站是干什么的</h1><p>这只是我的个人娱乐作品<br>没有特殊作用  </p><h1 id="须知"><a href="#须知" class="headerlink" title="须知"></a>须知</h1><ol><li>由于次网站是由Github pages部署的，<br>而Github在国内有严重的网络问题，<br>因此可能出现加载缓慢等问题，  </li><li>禁止过于推广此网站，不要问为什么</li></ol><hr><p>最后祝你浏览愉快  </p>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="欢迎"><a href="#欢迎" class="headerlink" title="欢迎"></a>欢迎</h1><ol><li>这个网站不欢迎以下这几类人<blockquote><p>死人</p><p>没有脑子的人</p><p>只会口嗨的人</p></blockquote></li><li>这个网站是由Hexo自动搭建的，<br>由Filud主题基于框架</li></ol><h1 id="这个网站是干什么的"><a href="#这个网站是干什么的" class="headerlink" title="这个网站是干什么的"></a>这个网站是干什么的</h1><p>这只是我的个人娱乐作品<br>没有特殊作用  </p><h1 id="须知"><a href="#须知" class="headerlink" title="须知"></a>须知</h1><ol><li>由于次网站是由Github pages部署的，<br>而Github在国内有严重的网络问题，<br>因此可能出现加载缓慢等问题，</li></ol><hr><p>最后祝你浏览愉快  </p>]]></content>
     
     
       
@@ -57,30 +79,6 @@
     
     <category term="公告" scheme="https://lingfengai2.github.io/categories/%E5%85%AC%E5%91%8A/"/>
     
-    
-  </entry>
-  
-  <entry>
-    <title>nbum（牛逼的工具箱）</title>
-    <link href="https://lingfengai2.github.io/2023/06/26/nbum%EF%BC%88%E7%89%9B%E9%80%BC%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1%EF%BC%89/"/>
-    <id>https://lingfengai2.github.io/2023/06/26/nbum%EF%BC%88%E7%89%9B%E9%80%BC%E7%9A%84%E5%B7%A5%E5%85%B7%E7%AE%B1%EF%BC%89/</id>
-    <published>2023-06-26T13:46:48.000Z</published>
-    <updated>2023-06-28T04:23:31.963Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><a class="btn" href="https://gitee.com/lingfengai/nbum"  title="去gitee查看脚本" target="_blank">gitee</a><a class="btn" href="https://github.com/lingfengai2/nbum"  title="去github查看脚本" target="_blank">github</a><h1 id="功能介绍"><a href="#功能介绍" class="headerlink" title="功能介绍"></a>功能介绍</h1><h2 id="已实现的功能"><a href="#已实现的功能" class="headerlink" title="已实现的功能"></a>已实现的功能</h2><ul><li><input checked="" disabled="" type="checkbox"> 安卓工具箱（Termux专用）  <ul><li><input checked="" disabled="" type="checkbox"> 一键美化 <a href="https://github.com/remo7777/T-Header" title="T-Header">原项目地址</a></li></ul></li><li><input checked="" disabled="" type="checkbox"> QQ机器人（Yunzai-Bot）  <ul><li><input checked="" disabled="" type="checkbox"> 一键部署  </li><li><input checked="" disabled="" type="checkbox"> 一键启动  </li><li><input checked="" disabled="" type="checkbox"> 一键修复版本过低</li></ul></li><li><input checked="" disabled="" type="checkbox"> 刷只因工具（作用几乎为零）  <ul><li><input checked="" disabled="" type="checkbox"> ADB安装与使用  </li><li><input checked="" disabled="" type="checkbox"> OZIP转ZIP <a href="https://github.com/liyw0205/oziptozip" title="oziptozip">原项目地址</a><br><em>没错就这么点功能</em></li></ul></li></ul><h3 id="预想实现的内容"><a href="#预想实现的内容" class="headerlink" title="预想实现的内容"></a>预想实现的内容</h3><ul><li><input disabled="" type="checkbox"> Yunzai-Bot插件一键安装和卸载  </li><li><input disabled="" type="checkbox"> 为MT终端安装Proot容器</li></ul><hr><h2 id="安装教程"><a href="#安装教程" class="headerlink" title="安装教程"></a>安装教程</h2><p><em>推荐使用一键安装脚本</em></p><ol><li>执行一键安装脚本  <figure class="highlight awk"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs awk">bash &lt;(curl -L gitee.com<span class="hljs-regexp">/lingfengai/</span>nbum<span class="hljs-regexp">/raw/m</span>aster/install.sh)<br></code></pre></td></tr></table></figure></li><li>回车确认安装依赖  </li><li>回车确认克隆本仓库</li></ol><hr><h2 id="使用说明"><a href="#使用说明" class="headerlink" title="使用说明"></a>使用说明</h2><p><del>如果你不是傻bi的话应该不用教</del>（bushi）<br>通过键盘或Termux下发导航栏的<code>↑↓</code>来选择一个选项<br>通过键盘或Termux下发导航栏的<code>←→</code>来选择“yes”或“no”<br>选择一个选项后回车确认<br>选择“no”后回车退出  </p><hr><h2 id="贡献者-x2F-作者"><a href="#贡献者-x2F-作者" class="headerlink" title="贡献者&#x2F;作者"></a>贡献者&#x2F;作者</h2><table><thead><tr><th align="center">名称</th><th align="center">设备</th></tr></thead><tbody><tr><td align="center">凌风哎</td><td align="center"><a href="https://gitee.com/lingfengai">Gitee</a></td></tr><tr><td align="center">lingfengai</td><td align="center">终端git上传</td></tr></tbody></table>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot; cla</summary>
-      
-    
-    
-    
-    <category term="脚本介绍" scheme="https://lingfengai2.github.io/categories/%E8%84%9A%E6%9C%AC%E4%BB%8B%E7%BB%8D/"/>
-    
-    
-    <category term="nbum" scheme="https://lingfengai2.github.io/tags/nbum/"/>
     
   </entry>
   
